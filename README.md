@@ -4,8 +4,8 @@
 
 ## Education
 
-- M.S., Artificial Intelligence | Higher School of Electronic Communications an Poste at Niamey (_December 2024_)
-- B.S., Analysis & Programming | African Instuite of Computer Science (IAI) at Niamey (_November 2021_)
+- M.S., Artificial Intelligence | Higher School of Electronic Communications and Poste at Niamey (_December 2024_)
+- B.S., Analysis & Programming | African Instituite of Computer Science (IAI) at Niamey (_November 2021_)
 
 ## Work Experience
 
@@ -25,6 +25,6 @@
 
 This project aims to revolutionize traffic light management at an urban intersection using a Deep Q-Learning reinforced learning agent. By simulating traffic flow with the SUMO (Simulation of Urban Mobility) tool, the main objective is to optimize vehicle travel times by minimizing their waiting time.
 
-![1722032906179](image/README/1722032906179.png)
+-![Traffic Control Light](./assets/img/Traffic-Control-Light.png "Traffic Control Light")
 
 ### Projec
