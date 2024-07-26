@@ -4,7 +4,7 @@
 
 ## Education
 
-- M.S., Artificial Intelligence | Higher School of Electronic Communications and Poste at Niamey (_December 2024_)
+- M.S., Artificial Intelligence | Higher School of Electronic Communications and Poste (ESCEP-Niger) at Niamey (_December 2024_)
 - B.S., Analysis & Programming | African Instituite of Computer Science (IAI) at Niamey (_November 2021_)
 
 ## Work Experience
