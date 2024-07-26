@@ -1,6 +1,6 @@
-# IT works engineer | Artificial Intelligence developer
+# Artificial Intelligence Developer | IT works engineer
 
-#### Technical Skills: Python, SQL, Power BI, OpenCV, MATLAB
+#### Technical Skills: Python, SQL, Power BI, OpenCV, MATLAB, Pandas, Matplotlib, Numpy
 
 ## Education
 
