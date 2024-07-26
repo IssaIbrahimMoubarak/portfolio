@@ -23,7 +23,7 @@
 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-This project aims to revolutionize traffic light management at an urban intersection using a Deep Q-Learning reinforced learning agent. By simulating traffic flow with the SUMO (Simulation of Urban Mobility) tool, the main objective is to optimize vehicle travel times by minimizing their waiting time.
+This project aims to revolutionize traffic light management at an urban intersection using a Deep Q-Learning reinforced learning agent. By simulating traffic flow with the **SUMO **(Simulation of Urban Mobility) tool, the main objective is to optimize vehicle travel times by minimizing their waiting time.
 
 -![Traffic Control Light](./assets/img/Traffic-Control-Light.png "Traffic Control Light")
 
