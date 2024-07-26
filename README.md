@@ -1,6 +1,6 @@
 # Artificial Intelligence Developer | IT works engineer
 
-#### Technical Skills: Python, SQL, Power BI, OpenCV, MATLAB, Pandas, Matplotlib, Numpy.
+#### Technical Skills: Python, SQL, Power BI, OpenCV, MATLAB, Pandas, Matplotlib, Numpy, Tensorflow, Keras
 
 ## Education
 
