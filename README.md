@@ -5,7 +5,7 @@
 ## Education
 
 - M.S., Artificial Intelligence | Higher School of Electronic Communications an Poste at Niamey (_December 2024_)
-- B.S., Analysis & Programming | African Instuite of Computer Science (IAI) at Niamey (_May 2021_)
+- B.S., Analysis & Programming | African Instuite of Computer Science (IAI) at Niamey (_November 2021_)
 
 ## Work Experience
 
